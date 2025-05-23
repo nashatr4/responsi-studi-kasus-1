@@ -1,7 +1,7 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
+Nama : Nashatra Aqila Ramadhani  
+NIU : 504580  
 Sesi : [SESI]  
 Secret String : [SECRET_STRING]
 
@@ -9,8 +9,8 @@ Secret String : [SECRET_STRING]
 
 Berikut adalah poin-poin yang telah berhasil dilakukan oleh praktikan:
 
-- [ ] Membuat SSH Key pada mesin lokal (komputer laboratorium).
-- [ ] Melakukan pembuatan dan konfigurasi _virtual machine_.
+- [x] Membuat SSH Key pada mesin lokal (komputer laboratorium).
+- [x] Melakukan pembuatan dan konfigurasi _virtual machine_.
 - [ ] Terhubung dengan _virtual machine_ menggunakan SSH.
 - [ ] Melakukan _fork_ dan _clone_ _repository_.
 - [ ] Meng-_generate_ _secret string_
